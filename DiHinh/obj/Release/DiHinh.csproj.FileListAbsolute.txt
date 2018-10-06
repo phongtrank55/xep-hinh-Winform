@@ -1,0 +1,9 @@
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Release\DiHinh.exe.config
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Release\DiHinh.exe
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Release\DiHinh.pdb
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Release\DiHinh.Form1.resources
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Release\DiHinh.Properties.Resources.resources
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Release\DiHinh.csproj.GenerateResource.Cache
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Release\DiHinh.exe
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Release\DiHinh.pdb
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Release\DiHinh.csprojResolveAssemblyReference.cache

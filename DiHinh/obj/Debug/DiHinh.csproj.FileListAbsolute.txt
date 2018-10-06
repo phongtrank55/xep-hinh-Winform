@@ -1,0 +1,27 @@
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\bin\Debug\DiHinh.exe.config
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\bin\Debug\DiHinh.exe
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\bin\Debug\DiHinh.pdb
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\obj\Debug\DiHinh.csprojResolveAssemblyReference.cache
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\obj\Debug\DiHinh.Form1.resources
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\obj\Debug\DiHinh.Properties.Resources.resources
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\obj\Debug\DiHinh.csproj.GenerateResource.Cache
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\obj\Debug\DiHinh.exe
+C:\Users\Laptop88T\Desktop\DiHinh\DiHinh\obj\Debug\DiHinh.pdb
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Debug\DiHinh.exe.config
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.exe
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.pdb
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Debug\DiHinh.exe
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Debug\DiHinh.pdb
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.csprojResolveAssemblyReference.cache
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.Form1.resources
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.Properties.Resources.resources
+D:\PT\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.csproj.GenerateResource.Cache
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Debug\DiHinh.exe.config
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.exe
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.pdb
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Debug\DiHinh.exe
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\bin\Debug\DiHinh.pdb
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.csprojResolveAssemblyReference.cache
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.Form1.resources
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.Properties.Resources.resources
+D:\C Sharp\Bai lam C sharp\Win form\DiHinh\DiHinh\obj\Debug\DiHinh.csproj.GenerateResource.Cache
